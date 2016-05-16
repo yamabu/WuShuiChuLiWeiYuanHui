@@ -1,4 +1,4 @@
-package moe.yamabu.imdemo1;
+package moe.yamabu.wsclwyh;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -117,5 +117,7 @@ public class MainActivity extends AppCompatActivity {
         hashMap.put("content", content);
         hashMap.put("time", System.currentTimeMillis() + "");
         IMAPI.pushMessageQuery().push().setValue(hashMap);
+
+        tvContent.setText("");
     }
 }

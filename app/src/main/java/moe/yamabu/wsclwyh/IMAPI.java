@@ -1,4 +1,4 @@
-package moe.yamabu.imdemo1;
+package moe.yamabu.wsclwyh;
 
 import com.wilddog.client.Query;
 import com.wilddog.client.Wilddog;

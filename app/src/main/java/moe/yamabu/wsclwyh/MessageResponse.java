@@ -1,4 +1,4 @@
-package moe.yamabu.imdemo1;
+package moe.yamabu.wsclwyh;
 
 public class MessageResponse {
     public String userName;

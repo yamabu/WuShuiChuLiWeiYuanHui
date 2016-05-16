@@ -1,4 +1,4 @@
-package moe.yamabu.imdemo1;
+package moe.yamabu.wsclwyh;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
